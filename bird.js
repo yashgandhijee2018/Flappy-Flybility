@@ -1,4 +1,4 @@
-const imgSrc = 'https://image.ibb.co/jS0zTc/bird.png';
+const imgSrc = 'hhttps://github.com/yashgandhijee2018/Flappy-Flybility/blob/main/bird.png';
 let img;
 
 function preload() {
